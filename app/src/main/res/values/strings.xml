@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">猜姓氏</string>
+
+    <string-array name="name">
+        <item>猜姓氏1</item>
+        <item>猜姓氏2</item>
+        <item>猜姓氏3</item>
+        <item>猜姓氏4</item>
+    </string-array>
 </resources>
